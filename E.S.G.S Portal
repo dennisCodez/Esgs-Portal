@@ -1,0 +1,40 @@
+﻿<html>
+<head>
+   <title> E.S.G.S Portal </title>
+</head>
+<body style="background:yellow"/>
+<img src="/storage/emulated/0/Download/47240903_958630481004051_8490613310071242752_n.jpg" width="100" height="100"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b> <i> <font color="green"> <font size="5"> Ewutuntun Senior Grammar School Student Portal </font> </font> </i> </b>
+<p> <b> <i> <font color="green"> <center> <font size="5"> District VI </font> </center> </font> </i> </b> </p>
+<p> <hr/ color="brown">
+<p> <i> <marquee> <font color="brown"> <font size="3">  You are welcome to E.S.G.S Student Portal. </font> </font> </marquee> </i> </p>
+<p> <hr/ color="brown">
+<b> <i> <div style="background:green"> <font color="yellow"> <font size="4">Sign Up to create an Account </font> </font> </div> </i> </b>
+<p> <form> <font color="brown">Name: &nbsp; <input type="name" placeholder="Surname, First name and other name" required> </p>
+<p>E-mail: &nbsp; <input type="email" required> </p>
+<p>Phone No: &nbsp; <input type="number" required> </p>
+<p>Class: &nbsp;<select> <option> SSS1 </option> <option> SSS2 </option> <option> SSS3</option> </select> </p>
+<p> Address: <input method="address"> </p>
+<p>Gender: &nbsp; Male <input type="radio" required> Female <input type="radio" required> </p>
+<p> State of Origin: &nbsp; <select> <option> Abia </option> <option> Adamawa </option> <option> Akwa ibom </option> <option> Anambra </option> <option> Bauchi </option> <option> Bayelsa </option> <option> Benue </option> <option> Borno </option> <option> Cross River </option> <option> Delta </option> <option> Ebonyi </option> <option> Edo </option> <option> Enugu </option> <option> Ekiti </option> <option> Gombe </option> <option> Imo </option> <option> Jigawa </option> <option> Kaduna </option> <option> Kano </option> <option> Katsina </option> <option> Kebbi </option> <option> Kogi </option> <option> Kwara </option> <option> Lagos </option> <option> Nasarawa </option> <option> Niger </option> <option> Ogun </option> <option> Ondo </option> <option> Osun </option> <option> Oyo </option> <option> Plateau </option> <option> Rivers </option> <option> Sokoto </option> <option> Taraba </option> <option> Yobe </option> <option> Zamfara </option> </select> </p>
+<p>Date of Birth: &nbsp; <input type="date" required> </p>
+<p>Upload Passport: &nbsp; <input type="file" required> </p>
+<p> &nbsp; <input type="submit" value="Sign Up"> </p>
+</font> </form>
+<hr/ color="brown">
+<p>  <b> <i> <div style="background:green"> <font color="yellow"> <font size="4"> Sign In into your Account </font> </font> </div> </i> </b> </p>
+<p> <font color="brown"> E-mail Address: </p> 
+<input type="email" required> 
+<p> Password: </p>
+<input type="password"> 
+<p> &nbsp; <button> Login </button> </p>
+</font>
+<hr/ color="brown"> 
+<p> <div style="background:green"> .</div> </p> 
+<div style="background:orange"> <hr/ color="brown">
+<p> <a href="google.com"> Rules and Regulations of the school </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="google.com"> 2019/2020 Admission List </a> </p>
+<p> <a href="google.com"> Admission Requirements </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="google.com"> 2019/2020 B.E.C.E Result </a> </p> 
+<p> <a href="google.com"> Admisssion Processes </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="google.com"> 2020 Calendar for E.S.G.S </a> </p>
+<p> <a href="google.com"> Departmental Requirements </a> </p>
+<hr/ color="brown"> </div>
+
+</html>
